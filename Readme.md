@@ -2,6 +2,10 @@
 
 StyleWise is an innovative application that recommends clothing based on scanning or uploading an image. It utilizes a Convolutional Neural Network (CNN) based recommender system to provide personalized fashion suggestions.
 
+## Demo
+
+![StyleWise Demo](demo.gif)
+
 ## Features
 
 - Image-based clothing recommendation
